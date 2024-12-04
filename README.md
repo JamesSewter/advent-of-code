@@ -1,4 +1,4 @@
 # advent-of-code
 
 
-Here are my solutions to the puzzles on advent of code: https://adventofcode.com/
+In this repo are my solutions to the puzzles on advent of code: https://adventofcode.com/
